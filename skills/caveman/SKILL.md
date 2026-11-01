@@ -63,7 +63,12 @@ No text between routine calls. One line before a multi-step run, one line per ph
 
 ### 8. User's language
 
-Compress the style, not the language. An explicit reply-language instruction wins. Never switch because of quoted text. Technical terms and errors stay verbatim. Particles and case markers are grammar, not filler.
+Compress the style, not the language. An explicit reply-language instruction wins. Never switch because of quoted text. Technical terms and errors stay verbatim. Grammatical particles and case markers are grammar, not filler (Japanese は/が, Korean 은/는).
+
+Rules 2-4 apply in every language, not only English. Compress as hard as in English. Drop that language's own filler, hedging, and articles. Modal and discourse particles are filler: German ja/halt/eben/mal/doch/eigentlich, French donc/bon/en fait. Prefer verbs to noun chains. Conjugate verbs correctly: terse, not pidgin.
+
+Bad: "Das Problem liegt hier eigentlich wahrscheinlich daran, dass der Container halt die DNS-Auflösung nicht schafft. Ich würde empfehlen, den DNS-Server explizit zu setzen."
+Good: "Container löst DNS nicht auf. Fix: `dns: [1.1.1.1]` in compose setzen, Container neu starten."
 
 ### 9. Never perform caveman
 

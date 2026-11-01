@@ -1,0 +1,10 @@
+Warum rendert meine React-Komponente bei jedem Update der Elternkomponente neu?
+Erkläre Connection Pooling bei Datenbanken.
+Was ist der Unterschied zwischen TCP und UDP?
+Wie behebe ich ein Speicherleck in einem lange laufenden Node.js-Prozess?
+Was sagt mir der SQL-Befehl EXPLAIN?
+Wie behandelt eine Hashtabelle Kollisionen?
+Warum bekomme ich CORS-Fehler in der Browserkonsole?
+Wozu dient ein Debouncer an einem Suchfeld?
+Worin unterscheidet sich git rebase von git merge?
+Wann sollte ich in Messaging-Systemen eine Queue und wann ein Topic verwenden?
